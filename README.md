@@ -13,16 +13,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details open>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
 Ine van den Hoven
 
 #### Je startniveau:
-Rood (kies uit zwart, rood óf blauw)
+Rood
 
 #### Je focus:
-Responsive, misschien allebei (kies uit responsive óf surface plane)
+Ik ga mij focussen op responsive, maar wil ook aan de surface plane werken. 
  
 </details>
 
@@ -33,18 +33,18 @@ Responsive, misschien allebei (kies uit responsive óf surface plane)
 ## Je website
 
 <details open>
-<summary>uitwerken voor kick-off werkgroep</summary>
+<summary>Uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://www.loavies.com/nl
+Ik ga twee pagina's van de website https://www.loavies.com/nl uitwerken.
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage 
 <img src="images/homepage_loavies.jpeg" width="375px" alt="Dit is de homepage van de website Loavies">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Monday to Friday 
-<img src="images/monday-to-friday_loavies.jpg" width="375px" alt="Monday to Friday outfits die je bij Loavies kan kopen">
+Product pagina
+<img src="images/productpage-loavies.jpg" width="375px" alt="Een productpagina van de website Loavies">
  
 </details>
 
@@ -55,13 +55,16 @@ Monday to Friday
 ## Breakdownschets (week 1)
 
 <details>
-<summary>uitwerken na afloop 2e werkgroep</summary>
+<summary>Uitwerken na afloop 2e werkgroep</summary>
 
-### de hele pagina: 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+### de hele homepagina: 
+<img src="images/breakdownschets-homepage.jpg" width="375px" alt="Breakdown van de hele homepage">
+
+### de hele productpagina: 
+<img src="images/breakdownschets-productpage.jpg" width="375px" alt="Breakdown van de hele productpage">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/breakdownschets-menu.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
 ### wellicht nog een dynamisch deel (bijv filter): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -75,7 +78,7 @@ Monday to Friday
 ## Voortgang 1 (week 2)
 
 <details>
-<summary>uitwerken voor 1e voortgang</summary>
+<summary>Uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
