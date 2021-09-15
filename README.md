@@ -57,16 +57,16 @@ Product pagina
 <details>
 <summary>Uitwerken na afloop 2e werkgroep</summary>
 
-### de hele homepagina: 
+### De hele homepagina: 
 <img src="images/breakdownschets-homepage.jpg" width="375px" alt="Breakdown van de hele homepage">
 
-### de hele productpagina: 
+### De hele productpagina: 
 <img src="images/breakdownschets-productpage.jpg" width="375px" alt="Breakdown van de hele productpage">
 
-### dynamisch deel (bijv menu): 
+### Dynamisch deel (bijv menu): 
 <img src="images/breakdownschets-menu.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-### wellicht nog een dynamisch deel (bijv filter): 
+### Wellicht nog een dynamisch deel (bijv filter): 
 <img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
