@@ -85,21 +85,21 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 Tot nu toe gaat de opdracht redelijk goed. Het schrijven van de CSS vind ik tot nu toe erg goed gaan. Ik heb de twee pagina's nu bijna hellemaal staan. Wat ik wel lastig vind is het goed semantisch schrijven van de HTML. Ik twijfel regelmatig over of het wel semantisch correct is. 
 
-<img src="images/" width="375px" alt="Is de HTML wel semantisch">
+<img src="images/semantisch.png" width="375px" alt="Is de HTML wel semantisch">
 Is deze HTML wel goed semantisch?
 
 Daarnaast kreeg ik bij het stylen van de tweede pagina wat problemen, omdat de HTML dan delen van de CSS pakt van de andere pagina. Dit komt doordat de elementen hetzelfde heten. Dit heb ik opgelost door op de body van de tweede pagina (de productpage) een id op de body te zetten. Hierdoor kan ik deze pagina stylen zonder dat deze CSS pakt van de homepage elementen.
 
-<img src="images/" width="375px" alt="CSS die wordt gepakt van een element op de homepage">
+<img src="images/achtergrond.png" width="375px" alt="CSS voor de product pagina die aan de homepage word toegevoegd">
 Hier zie je de CSS die is toegevoegd voor de product pagina, maar ook aan de homepage word toegevoegd.
 
-<img src="images/" width="375px" alt="CSS die wordt gepakt van een element op de homepage">
+<img src="images/css-achtergrond.png" width="375px" alt="CSS die wordt gepakt van een element op de homepage">
 De uitkomst van de CSS hierboven.
 
-<img src="images/" width="375px" alt="Element dat fout gaat door nieuw toegevoegde CSS">
+<img src="images/onderelkaar.png" width="375px" alt="Element dat fout gaat door nieuw toegevoegde CSS">
 Het element gaat fout doordat er nieuwe CSS is toegevoegd aan de product pagina.
 
-<img src="images/" width="375px" alt="Element dat fout gaat door nieuw toegevoegde CSS">
+<img src="images/css-margin.png" width="375px" alt="Element dat fout gaat door nieuw toegevoegde CSS">
 Door deze code staan twee elementen niet meer goed, op de homepage.
 
 ### Agenda voor meeting
