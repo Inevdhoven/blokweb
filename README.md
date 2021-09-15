@@ -40,7 +40,7 @@ Ik ga twee pagina's van de website https://www.loavies.com/nl uitwerken.
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Homepage 
-<img src="images/homepage_loavies.jpeg" width="375px" alt="Dit is de homepage van de website Loavies">
+<img src="images/homepage-loavies.jpg" width="375px" alt="Dit is de homepage van de website Loavies">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 Product pagina
@@ -83,15 +83,34 @@ Product pagina
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+Tot nu toe gaat de opdracht redelijk goed. Het schrijven van de CSS vind ik tot nu toe erg goed gaan. Ik heb de twee pagina's nu bijna hellemaal staan. Wat ik wel lastig vind is het goed semantisch schrijven van de HTML. Ik twijfel regelmatig over of het wel semantisch correct is. 
+
+<img src="images/" width="375px" alt="Is de HTML wel semantisch">
+Is deze HTML wel goed semantisch?
+
+Daarnaast kreeg ik bij het stylen van de tweede pagina wat problemen, omdat de HTML dan delen van de CSS pakt van de andere pagina. Dit komt doordat de elementen hetzelfde heten. Dit heb ik opgelost door op de body van de tweede pagina (de productpage) een id op de body te zetten. Hierdoor kan ik deze pagina stylen zonder dat deze CSS pakt van de homepage elementen.
+
+<img src="images/" width="375px" alt="CSS die wordt gepakt van een element op de homepage">
+Hier zie je de CSS die is toegevoegd voor de product pagina, maar ook aan de homepage word toegevoegd.
+
+<img src="images/" width="375px" alt="CSS die wordt gepakt van een element op de homepage">
+De uitkomst van de CSS hierboven.
+
+<img src="images/" width="375px" alt="Element dat fout gaat door nieuw toegevoegde CSS">
+Het element gaat fout doordat er nieuwe CSS is toegevoegd aan de product pagina.
+
+<img src="images/" width="375px" alt="Element dat fout gaat door nieuw toegevoegde CSS">
+Door deze code staan twee elementen niet meer goed, op de homepage.
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Ik             | Sterre             | Mathijs             | Arsenio          |
+| ---            | ---                | ---                 | ---              |
+| html semantisch| html semantisch    | Of div en classes   | en dan ik dat    |
+|                | GitHub uitleg      | goed zijn.          | dit wil ik zeker |
+|                | CSS                |                     | ...              |
+
 
 
 ### Verslag van meeting
