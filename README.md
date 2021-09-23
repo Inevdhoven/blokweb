@@ -107,19 +107,20 @@ samen met je groepje opstellen
 
 | Ik             | Sterre             | Mathijs             | Arsenio          |
 | ---            | ---                | ---                 | ---              |
-| html semantisch| html semantisch    | Of div en classes   | en dan ik dat    |
-|                | GitHub uitleg      | goed zijn.          | dit wil ik zeker |
-|                | CSS                |                     | ...              |
+| html semantisch| html semantisch    | Of div en classes   | HTML bekijken    |
+| id gebruiken   | CSS                | goed zijn.          | CSS bekijken     |
 
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Button inplaats van span gebruiken voor menu.
+- Banners uit de header halen en in de main zetten.
+- Headings platsen in articles en deze niet zichtbaar maken.
+- H1 om SVG zetten, omdat dit het belangrijkste is en dan title op svg met wat het is.
+- CSS selectors korter maken.
+- Meer verschillende CSS selectors gebruiken, zoals + en >.
 
 </details>
 
@@ -134,16 +135,33 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Deze week ben ik begonnen met het responsive maken van de twee pagina's dit vind ik van mobiel naar desktop toch wel een beetje lastig. Ik ben namelijk gewend om van desktop naar mobiel te werken. Tot nu toe heb ik een aantal onderdelen van de website resposive gemaakt, waaronder het menu, de categorieën en de slider op de homepage. 
+
+
+<img src="images/menu_mobiel.png" width="375px" alt="Het menu voor mobiel">
+<img src="images/menu_desktop.png" width="375px" alt="Het menu voor desktop">
+Hier zie je hoe ik het menu voor mobiel heb gemaakt. Dit heb ik met grid naast elkaar gezet. Voor de desktop versie heb ik ervoor gezorgd dat het alle linkjes die voor mobiel in het hamburgermenu zitten nu in de onder de menubalk vallen.
+
+
+<img src="images/categorie_mobiel.png" width="375px" alt="Categorie voor mobiel">
+<img src="images/categorie_desktop.png" width="375px" alt="Categorie voor desktop">
+Voor de categorieën heb ik ervoor gezorgd dat wanneer het scherm groter is dan het element deze in het midden word uitgelijnd. Op mobiel kun je namelijk opzij scrollen doormiddel van overflow-x scroll. Met Flexbox heb ik ervoor gezorgd dat dit element op desktop in het midden uitlijnd.
+
+
+<img src="images/looks_mobiel.png" width="375px" alt="Looks voor mobiel">
+<img src="images/looks_tablet.png" width="375px" alt="Looks voor tablet">
+<img src="images/looks_desktop.png" width="375px" alt="Looks voor desktop">
+Bij de looks heb ik ervoor gekozen om dit op alle schermen te kunnen laten scrollen alleen wanneer het scherm groter word kommen er steeds meer looks in beeld. Op mobiel zie je er eerst alleen de eerste voledig wanneer je het scherm groter maakt komen er steeds meer in beeld.
 
 
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Ik             | Sterre             | Mathijs      | Arsenio          |
 | ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| Responsive     | Het menu           | en ik dit    | en dan ik dat    |
+| Grid           | Formulier blok     | nog een punt | dit wil ik zeker |
+|                | anders plaatsen    | ...          | ...              |
 
 
 ### Verslag van meeting
@@ -255,8 +273,9 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.w3schools.com/cssref/pr_text_text-decoration.asp
+2. https://www.w3schools.com/html/html_tables.asp
+3. https://css-tricks.com/almanac/properties/s/scroll-snap-type/
+4. 
 
 </details>
