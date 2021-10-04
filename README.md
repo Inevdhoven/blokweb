@@ -268,16 +268,16 @@ Wat wel is gelukt met de animaties is een box-shadow op de verschillende categor
 
 Deze week heb ik ook nog verschillende andere dingen aan de website aangepast en toegevoegd. Zo heb ik kleine transitions toegevoegd op de svg icoontjes door de color aan te passen en transitions aan de linkjes en buttons toegevoegd.<br>
 <img src="images/icon-transition.png" width="375px" alt="Wanneer je over de icon hovert worden de icons roze">
-<img src="images/before-aanmelden.png" width="375px" alt="De button voor de hover het aanmelden">
+<img src="images/before-aanmelden.png" width="375px" alt="De button voor de hover het aanmelden"><br>
 <img src="images/after-aanmelden.png" width="375px" alt="De button na de hover">
 
 ### Screenshot(s)
 
 Het eindresultaat:<br>
-<img src="images/eindresultaat-homepage.png" width="375px" alt="Het eindresultaat van de homepage voor mobiel">
+<img src="images/eindresultaat-homepage.png" width="375px" alt="Het eindresultaat van de homepage voor mobiel"><br>
 <img src="images/eindresultaat-productpagina.png" width="375px" alt="Het eindresultaat van de productpagina voor mobiel">
 
-<img src="images/eindresultaat-homepage-desktop.jpeg" width="100%" alt="Het eindresultaat van de homepage voor desktop">
+<img src="images/eindresultaat-homepage-desktop.jpeg" width="100%" alt="Het eindresultaat van de homepage voor desktop"><br>
 <img src="images/eindresultaat-productpagina-desktop.jpeg" width="100%" alt="Het eindresultaat van de productpagina voor desktop">
 
 </details>
