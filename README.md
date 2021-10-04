@@ -1,18 +1,9 @@
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
-Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
-
-
-
-
+Hier kun je mijn procesverslag lezen. In mijn proces verslag heb ik het over wat ik lastig vond om te doen en wat goed ging. Ook heb ik erin staan waar ik graag nog aan wil werken na de voortgangsgesprekken. Als laatste heb ik ook een verslag geschreven over waar ik tegen aanliep met de toegankelijkstest en hoe ik deze problemen eventueel zou kunnen oplossen.
 
 ## Jij
 
-<details open>
+<details>
 <summary>Uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
@@ -22,7 +13,7 @@ Ine van den Hoven
 Rood
 
 #### Je focus:
-Ik ga mij focussen op responsive, maar wil ook aan de surface plane werken. 
+Ik ga mij focussen op responsive, maar wil ook een beetje aan de surface plane werken. 
  
 </details>
 
@@ -32,7 +23,7 @@ Ik ga mij focussen op responsive, maar wil ook aan de surface plane werken.
 
 ## Je website
 
-<details open>
+<details>
 <summary>Uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
@@ -256,10 +247,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Verschillende reponsive puntjes oplossen
+- Animaties toevoegen (proberen svg animaties te maken)
+- Kijken naar lijst surface plane of daar nog dingen opstaan die ik kan toevoegen.
 
 </details>
 
@@ -269,15 +259,29 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ## Eindgesprek (week 5)
 
-<details>
-<summary>uitwerken voor eindgesprek</summary>
+<details open>
+<summary>Eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Dit was de laatste week dat ik aan mijn website kon werken. Ik wilde graag verschillende animaties toevoegen aan mijn website, maar wat ik precies wilde is niet helemaal gelukt. Ik wilde graag dat wanneer je het formulier voor de chat with us fout invulde dat deze heen en weer gingen bewegen als foutmelding. Dit werkte niet helemaal, ik heb verschillende dingen geprobeerd met :valid en :invalid, maar het wilde niet worden zoals ik het in gedachten had. Daarom heb ik ervoor gekozen om toch het effect te gebruiken door deze op de hover te zetten.
+<img src="images/formulier.png" width="375px" alt="Aangemaakt formulier met animatie">
+
+Wat wel is gelukt met de animaties is een box-shadow op de verschillende categorieën. Deze box-shadow komt tien keer in beeld wanneer je de pagina word geladen. Daarnaast heb ik ook geprobeerd om met de svgs op mijn website animaties te maken. Dit is helaas ook niet gelukt de svgs die ik nu op de website heb staan vind ik moeilijk aan te passen. Ook heb ik hier helaas niet genoeg tijd voor om dit helemaal uit te zoeken hoe het allemaal werkt. Dit zou wil ik wel graag later uitzoeken, omdat het mij wel erg leuk lijkt om dit te leren.
+<img src="images/animatie-categorie.png" width="500px" alt="De boxshadow komt 10x in beeld wanneer je de pagina hebt geladen, om de aandacht te trekken">
+
+Deze week heb ik ook nog verschillende andere dingen aan de website aangepast en toegevoegd. Zo heb ik kleine transitions toegevoegd op de svg icoontjes door de color aan te passen en transitions aan de linkjes en buttons toegevoegd.
+<img src="images/icon-transition.png" width="375px" alt="Wanneer je over de icon hovert worden de icons roze">
+<img src="images/before-aanmelden.png" width="375px" alt="De button voor de hover het aanmelden">
+<img src="images/after-aanmelden.png" width="375px" alt="De button na de hover">
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+Het eindresultaat:
+<img src="images/eindresultaat-homepage.png" width="375px" alt="Het eindresultaat van de homepage voor mobiel">
+<img src="images/eindresultaat-productpagina.png" width="375px" alt="Het eindresultaat van de productpagina voor mobiel">
+
+<img src="images/eindresultaat-homepage-desktop.jpeg" width="100%" alt="Het eindresultaat van de homepage voor desktop">
+<img src="images/eindresultaat-productpagina-desktop.jpeg" width="100%" alt="Het eindresultaat van de productpagina voor desktop">
 
 </details>
 
@@ -288,9 +292,7 @@ hier screenshot(s) van je eindresultaat
 ## Bronnenlijst
 
 <details open>
-<summary>continu bijhouden terwijl je werkt</summary>
-
-Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
+<summary>De bronnen die ik heb gebruikt</summary>
 
 1. https://www.w3schools.com/cssref/pr_text_text-decoration.asp
 2. https://www.w3schools.com/html/html_tables.asp
@@ -299,5 +301,7 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 5. https://www.w3schools.com/tags/tag_picture.asp
 6. https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
 7. https://css-tricks.com/almanac/properties/o/object-position/
+8. https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event
+9. https://html-css-js.com/css/generator/box-shadow/
 
 </details>
