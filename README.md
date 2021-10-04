@@ -267,7 +267,7 @@ Wat wel is gelukt met de animaties is een box-shadow op de verschillende categor
 <img src="images/animatie-categorie.png" width="500px" alt="De boxshadow komt 10x in beeld wanneer je de pagina hebt geladen, om de aandacht te trekken">
 
 Deze week heb ik ook nog verschillende andere dingen aan de website aangepast en toegevoegd. Zo heb ik kleine transitions toegevoegd op de svg icoontjes door de color aan te passen en transitions aan de linkjes en buttons toegevoegd.<br>
-<img src="images/icon-transition.png" width="375px" alt="Wanneer je over de icon hovert worden de icons roze">
+<img src="images/icon-transition.png" width="375px" alt="Wanneer je over de icon hovert worden de icons roze"><br>
 <img src="images/before-aanmelden.png" width="375px" alt="De button voor de hover het aanmelden"><br>
 <img src="images/after-aanmelden.png" width="375px" alt="De button na de hover">
 
