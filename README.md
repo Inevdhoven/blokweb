@@ -30,11 +30,11 @@ Ik ga mij focussen op responsive, maar wil ook een beetje aan de surface plane w
 Ik ga twee pagina's van de website https://www.loavies.com/nl uitwerken.
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Homepage 
+Homepage<br>
 <img src="images/homepage-loavies.jpg" width="375px" alt="Dit is de homepage van de website Loavies">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-Product pagina
+Product pagina<br>
 <img src="images/productpage-loavies.jpg" width="375px" alt="Een productpagina van de website Loavies">
  
 </details>
