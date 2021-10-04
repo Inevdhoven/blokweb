@@ -57,9 +57,6 @@ Product pagina
 ### Dynamisch deel (bijv menu): 
 <img src="images/breakdownschets-menu.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
-### Wellicht nog een dynamisch deel (bijv filter): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
 </details>
 
 
