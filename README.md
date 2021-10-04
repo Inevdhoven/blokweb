@@ -123,17 +123,17 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 
 ### Stand van zaken
 Deze week ben ik begonnen met het responsive maken van de twee pagina's dit vind ik van mobiel naar desktop toch wel een beetje lastig. Ik ben namelijk gewend om van desktop naar mobiel te werken. Tot nu toe heb ik een aantal onderdelen van de website resposive gemaakt, waaronder het menu, de categorieën en de slider op de homepage. 
-
+<br>
 
 <img src="images/menu_mobiel.png" width="375px" alt="Het menu voor mobiel">
 <img src="images/menu_desktop.png" width="375px" alt="Het menu voor desktop"><br>
 Hier zie je hoe ik het menu voor mobiel heb gemaakt. Dit heb ik met grid naast elkaar gezet. Voor de desktop versie heb ik ervoor gezorgd dat het alle linkjes die voor mobiel in het hamburgermenu zitten nu in de onder de menubalk vallen.
-
+<br>
 
 <img src="images/categorie_mobiel.png" width="375px" alt="Categorie voor mobiel">
 <img src="images/categorie_desktop.png" width="375px" alt="Categorie voor desktop"><br>
 Voor de categorieën heb ik ervoor gezorgd dat wanneer het scherm groter is dan het element deze in het midden word uitgelijnd. Op mobiel kun je namelijk opzij scrollen doormiddel van overflow-x scroll. Met Flexbox heb ik ervoor gezorgd dat dit element op desktop in het midden uitlijnd.
-
+<br>
 
 <img src="images/looks_mobiel.png" width="375px" alt="Looks voor mobiel">
 <img src="images/looks_tablet.png" width="375px" alt="Looks voor tablet">
