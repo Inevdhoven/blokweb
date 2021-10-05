@@ -116,23 +116,8 @@ header nav ul li a {
   transition: 250ms ease-in;
 }
 
-header nav ul ul a::after {
-  content: '';
-  background-color: var(--color-deeppink);
-  width: 0;
-  height: 3px;
-  position: absolute;
-  bottom: 5px;
-  left: 0;
-  transition: 250ms ease-in;
-}
-
 header nav ul ul a:hover {
   color: var(--color-deeppink);
-}
-
-header nav ul ul a:hover::after {
-  width: 100%;
 }
 
 header nav ul li h1 {
@@ -1279,6 +1264,21 @@ footer form {
     width: 100%;
     height: auto;
     left: 0;
+  }
+
+  header nav ul ul a::after {
+    content: '';
+    background-color: var(--color-deeppink);
+    width: 0;
+    height: 3px;
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    transition: 250ms ease-in;
+  }
+  
+  header nav ul ul a:hover::after {
+    width: 100%;
   }
 
   header nav ul li li {
