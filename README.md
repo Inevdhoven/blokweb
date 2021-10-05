@@ -69,7 +69,6 @@ Product pagina<br>
 <summary>Uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
 Tot nu toe gaat de opdracht redelijk goed. Het schrijven van de CSS vind ik tot nu toe erg goed gaan. Ik heb de twee pagina's nu bijna hellemaal staan. Wat ik wel lastig vind is het goed semantisch schrijven van de HTML. Ik twijfel regelmatig over of het wel semantisch correct is. 
 
@@ -103,10 +102,10 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- Button inplaats van span gebruiken voor menu.
+- Button in plaats van span gebruiken voor menu.
 - Banners uit de header halen en in de main zetten.
 - Headings platsen in articles en deze niet zichtbaar maken.
-- H1 om SVG zetten, omdat dit het belangrijkste is en dan title op svg met wat het is.
+- H1 om svg zetten, omdat dit het belangrijkste is en dan title op svg met wat het is.
 - CSS selectors korter maken.
 - Meer verschillende CSS selectors gebruiken, zoals + en >.
 
@@ -132,13 +131,13 @@ Hier zie je hoe ik het menu voor mobiel heb gemaakt. Dit heb ik met grid naast e
 
 <img src="images/categorie_mobiel.png" width="375px" alt="Categorie voor mobiel">
 <img src="images/categorie_desktop.png" width="375px" alt="Categorie voor desktop"><br>
-Voor de categorieën heb ik ervoor gezorgd dat wanneer het scherm groter is dan het element deze in het midden word uitgelijnd. Op mobiel kun je namelijk opzij scrollen doormiddel van overflow-x scroll. Met Flexbox heb ik ervoor gezorgd dat dit element op desktop in het midden uitlijnd.
+Voor de categorieën heb ik ervoor gezorgd, dat wanneer het scherm groter is dan het element, deze in het midden word uitgelijnd. Op mobiel kun je namelijk opzij scrollen doormiddel van overflow-x scroll. Met Flexbox heb ik ervoor gezorgd dat dit element op desktop in het midden uitlijnd.
 <br>
 
 <img src="images/looks_mobiel.png" width="375px" alt="Looks voor mobiel">
 <img src="images/looks_tablet.png" width="375px" alt="Looks voor tablet">
 <img src="images/looks_desktop.png" width="375px" alt="Looks voor desktop"><br>
-Bij de looks heb ik ervoor gekozen om dit op alle schermen te kunnen laten scrollen alleen wanneer het scherm groter word kommen er steeds meer looks in beeld. Op mobiel zie je er eerst alleen de eerste voledig wanneer je het scherm groter maakt komen er steeds meer in beeld.
+Bij de looks heb ik ervoor gekozen om dit op alle schermen te kunnen laten scrollen alleen wanneer het scherm groter wordt kommen er steeds meer looks in beeld. Op mobiel zie je er eerst alleen de eerste voledig wanneer je het scherm groter maakt komen er steeds meer in beeld.
 
 
 ### Agenda voor meeting
@@ -177,12 +176,12 @@ Lijst met mijn bevindingen die in de test naar voren kwamen:
 4. Voor sommige beperkingen heeft de website te veel informatie op het scherm.
 
 #### Focus voor screenreaders
-Het gebruiken van de VoiceOver op mac ging redelijk goed. Via de VO toets bij mij de Caps Lock toets kun je makkelijk door de elementen met focos heen gaan. Daarnaast kan je ook door de linkjes gaan via de VO toets (Caps Lock) + Command + L. Ook heb ik uitgezocht hoe je alleen de headings kan laten oplezen. Doe doe je met de VO + Command + H toetsen. Ik kwam wel tegen een aantal problemen aan. Zo leest de VoiceOver eerst het onderste deel van het menu voor en daarna pas het bovenste deel met de h1. De VoiceOver van mac plaatst gelukkig zelf ook een focus om de plek waar je op het moment bent. Maar wanneer dat niet het geval zou zijn en er word tekst voorgelezen uit een heading of paragraaf dan zou de gebruiker niet meer weten waar hij/zij zich bevind. Ook staan er teksten op de website die voor mensen zonder beperking duidelijk zijn, maar voor iemand die een screen reader gebruikt niet.<br>
+Het gebruiken van de VoiceOver op mac ging redelijk goed. Via de VO toets, bij mij de Caps Lock toets, kun je makkelijk door de elementen met focos heen gaan. Daarnaast kun je ook door de linkjes gaan via de VO toets (Caps Lock) + Command + L. Ook heb ik uitgezocht hoe je alleen de headings kan laten oplezen. Doe doe je met de VO + Command + H toetsen. Ik liep wel tegen een aantal problemen aan. Zo leest de VoiceOver eerst het onderste deel van het menu voor en daarna pas het bovenste deel met de h1. De VoiceOver van mac plaatst gelukkig zelf ook een focus om de plek waar je op het moment bent. Maar wanneer dat niet het geval zou zijn en er word tekst voorgelezen uit een heading of paragraaf, dan zou de gebruiker niet meer weten waar hij/zij zich bevind. Ook staan er teksten op de website die voor mensen zonder beperking duidelijk zijn, maar voor iemand die een screen reader gebruikt niet.<br>
 <img src="images/shop_campagne_test.jpg" width="500px" alt="Je hoort alleen shop capagne maar niet welke">
 <img src="images/knop_test.jpg" width="500px" alt="Je hoort alleen knop en niet wat voor knop het is">
 <img src="images/tekst_test.jpg" width="500px" alt="De gebruiker weet niet waar dit over gaat">
 
-Om deze problemen op te lossen zou ik de belangrijkheid bij de navigatie moeten aanpassen. Zo zou het logo de h1 als eerste opgelezen moeten worden zodat de gebruiker meteen weet op welke website hij/zij is. Er voor zorgen dat wanneer de screenreader op tekst is gefocust daar ook een focus omheen komt. Als laatste zou ik screen reader only tekst kunnen plaatsen die alleen worden gezien door de screenreaders, zodat zij begrijpen waar het over gaat.
+Om deze problemen op te lossen, zou ik de belangrijkheid bij de navigatie moeten aanpassen. Zo zou het logo de h1 als eerste opgelezen moeten worden zodat de gebruiker meteen weet op welke website hij/zij is. Er voor zorgen dat wanneer de screenreader op tekst is gefocust daar ook een focus omheen komt. Als laatste zou ik screen reader only tekst kunnen plaatsen die alleen worden gezien door de screenreaders, zodat zij begrijpen waar het over gaat.
 
 
 #### Buttons en linkjes te klein
@@ -220,7 +219,7 @@ Deze week heb ik het responsive maken van de website zo goed als afgemaakt. De w
 Daarnaast vond ik het moeilijk om ervoor te zorgen dat het kiezen van een taal op desktop in de footer onder de social media te krijgen. Dit heb ik uiteindelijk met grid en margin voor elkaar gekregen. <br>
 <img src="images/grid-taal.png" width="500px" alt="Desktop footer met taal select">
 
-Wat goed ging deze week was de tip die ik van de student assistenten heb gekregen bij het voortgangsgesprek. Ik heb de rechtopstaande afbeeldingen voor mobiel vanaf tablet vervangen door liggende afbeeldingen, zodat de afbeeldingen niet mega groot worden. Dit heb ik gedaan door om de afbeelding een picture te zetten en daarin een source te plaatsen met wanneer de afbeelding moet veranderen en welke afbeelding daarvoor in de plaats moet komen.<br>
+Wat goed ging deze week was de tip, die ik van de student assistenten heb gekregen bij het voortgangsgesprek. Ik heb de rechtopstaande afbeeldingen voor mobiel vanaf tablet vervangen door liggende afbeeldingen, zodat de afbeeldingen niet mega groot worden. Dit heb ik gedaan door om de afbeelding een picture te zetten en daarin een source te plaatsen met wanneer de afbeelding moet veranderen en welke afbeelding daarvoor in de plaats moet komen.<br>
 <img src="images/afbeelding-veranderen-mobiel.png" width="375px" alt="Banners op mobiel">
 <img src="images/afbeelding-veranderen.png" width="375px" alt="Banners op tablet en desktop">
 
@@ -260,7 +259,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>Eindgesprek</summary>
 
 ### Stand van zaken
-Dit was de laatste week dat ik aan mijn website kon werken. Ik wilde graag verschillende animaties toevoegen aan mijn website, maar wat ik precies wilde is niet helemaal gelukt. Ik wilde graag dat wanneer je het formulier voor de chat with us fout invulde dat deze heen en weer gingen bewegen als foutmelding. Dit werkte niet helemaal, ik heb verschillende dingen geprobeerd met :valid en :invalid, maar het wilde niet worden zoals ik het in gedachten had. Daarom heb ik ervoor gekozen om toch het effect te gebruiken door deze op de hover te zetten.<br>
+Dit was de laatste week dat ik aan mijn website kon werken. Ik wilde graag verschillende animaties toevoegen aan mijn website, maar wat ik precies wilde is niet helemaal gelukt. Ik wilde graag, dat wanneer je het formulier voor de chat with us fout invulde, deze heen en weer gingen bewegen als foutmelding. Dit werkte niet helemaal, ik heb verschillende dingen geprobeerd met :valid en :invalid, maar het wilde niet worden zoals ik het in gedachten had. Daarom heb ik ervoor gekozen om toch het effect te gebruiken door deze op de hover te zetten.<br>
 <img src="images/formulier.png" width="375px" alt="Aangemaakt formulier met animatie">
 
 Wat wel is gelukt met de animaties is een box-shadow op de verschillende categorieën. Deze box-shadow komt tien keer in beeld wanneer je de pagina word geladen. Daarnaast heb ik ook geprobeerd om met de svgs op mijn website animaties te maken. Dit is helaas ook niet gelukt de svgs die ik nu op de website heb staan vind ik moeilijk aan te passen. Ook heb ik hier helaas niet genoeg tijd voor om dit helemaal uit te zoeken hoe het allemaal werkt. Dit zou wil ik wel graag later uitzoeken, omdat het mij wel erg leuk lijkt om dit te leren.<br>
