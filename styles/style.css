@@ -450,7 +450,7 @@ section:nth-of-type(4) ul li button:last-of-type {
   height: auto;
   border-radius: 0;
   padding: 0;
-  bottom: 1.8em;
+  bottom: 1.2em;
 }
 
 section:nth-of-type(4) ul li button:last-of-type svg {
@@ -875,7 +875,7 @@ main section:nth-of-type(2) article:last-of-type table tr td:last-of-type {
 #product section:nth-of-type(3) ul h3,
 #product section:nth-of-type(3) ul article:last-of-type p:first-of-type {
   display: block;
-  width: 80px;
+  width: 70%;
   font-size: 1em;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -1062,12 +1062,17 @@ footer form {
   }
 
   section:nth-of-type(4) ul li {
-    min-width: calc(100% / 2.5);
+    min-width: calc(100% / 2.1);
   }
 
   #product section:first-of-type img {
     max-height: 500px;
     object-fit: contain;
+  }
+
+  #product section:nth-of-type(3) ul h3, 
+  #product section:nth-of-type(3) ul article:last-of-type p:first-of-type {
+    width: 80%;
   }
 }
 
@@ -1079,7 +1084,7 @@ footer form {
   }
 
   main article video {
-    margin-bottom: 26px;
+    margin-bottom: 18px;
     height: 49%;
   }
 
